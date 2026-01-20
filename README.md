@@ -1,4 +1,4 @@
-# Vimeo Video Posts Dataset Sample
+# Vimeo Video Posts データセットサンプル
 
 <h2>1,000件のレコードのサンプルデータセット</h2>
 
