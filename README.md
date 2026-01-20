@@ -3,7 +3,7 @@
 <h2>1,000件のレコードのサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Vimeo-Video-Posts-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Vimeo-Video-Posts-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Vimeo Video Posts Dataset Sample** には **1,000件のレコード** が含まれており、**Bright Data API** を使用して抽出されています。
